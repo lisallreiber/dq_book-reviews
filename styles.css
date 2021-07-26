@@ -1,0 +1,24 @@
+
+.instruction-notes { 
+  background: #f6f6f6;
+  padding: 10px;
+  color: gray;
+  border-radius: 10px;
+  font-style: italic;
+  font-size: 80%;
+}
+
+.solution-text { 
+  background: #d7fbe8;
+  padding: 10px;
+  color: 184d47;
+  border-radius: 10px;
+}
+
+h2 {
+  font-size: 150%;
+}
+
+h3 {
+  font-size: 150%;
+}
